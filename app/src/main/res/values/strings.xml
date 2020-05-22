@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Web Browser</string>
+    <string name="DAT_LIEN_KET_CUA_BAN">ĐẶT LIÊN KẾT CỦA BẠN</string>
+    <string name="http">http://</string>
+    <string name="Nhap_lien_ket">Nhập liên kết</string>
+    <string name="OK">OK</string>
+</resources>
