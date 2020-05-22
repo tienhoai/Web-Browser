@@ -145,7 +145,6 @@ public class MainActivity extends AppCompatActivity{
 
     private void saveUrl() {
         final Dialog dialog = new Dialog(MainActivity.this);
-        dialog.setContentView(R.layout.insert_link);
         final EditText etUrl = dialog.findViewById(R.id.edit_text_url);
         final Button btOk = dialog.findViewById(R.id.button_ok);
 
