@@ -148,7 +148,7 @@ public class MainActivity extends AppCompatActivity{
         dialog.setContentView(R.layout.insert_link);
         final EditText etUrl = dialog.findViewById(R.id.edit_text_url);
         final Button btOk = dialog.findViewById(R.id.button_ok);
-        //dialog.setCancelable(false);
+
         btOk.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
